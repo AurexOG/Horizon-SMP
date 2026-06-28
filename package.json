@@ -1,0 +1,15 @@
+{
+  "name": "horizon-smp",
+  "version": "1.0.0",
+  "description": "Horizon SMP – Tamil Minecraft Community website with Vercel Serverless backend",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "mysql2": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
